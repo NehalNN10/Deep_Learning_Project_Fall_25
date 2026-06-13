@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <kml xmlns="http://www.opengis.net/kml/2.2">
+      <Document>
+        <Placemark>
+          <name>Buffered Bounding Box</name>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  
+        67.848246284395,23.712406226392925,0
+        76.6142478548795,23.712406226392925,0
+        76.6142478548795,30.51732610761066,0
+        67.848246284395,30.51732610761066,0
+        67.848246284395,23.712406226392925,0
+    
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Document>
+    </kml>
+    
