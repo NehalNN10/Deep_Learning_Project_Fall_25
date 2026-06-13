@@ -21,6 +21,6 @@ The four models used in the study are:
 
 The work was accepted to the IEEE IGARSS 2026 conference.
 
-Refer to the [poster](Project\Report.pdf) and [report](Poster.svg) in the repository for more details.
+Refer to the [report](Project\Report.pdf) in the repository for more details.
 
 
